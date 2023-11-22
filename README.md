@@ -4,7 +4,7 @@
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![Hanako Hi](./hanako-hi.gif)
 
-## Um pouco sobre mim:
+## About Me:
 
 <p>
 Hello, I am <strong style="color: #419197">Matheus Rodrigues</strong>, and I am 19 years old.<br>
